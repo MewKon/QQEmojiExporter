@@ -1,0 +1,5 @@
+# QQ 表情包提取器 —— 运行依赖
+# 安装：pip install -r requirements.txt
+# 界面使用 CustomTkinter（基于 tkinter 的现代控件库），无需浏览器、不联网
+Pillow>=9.5
+customtkinter>=5.2
